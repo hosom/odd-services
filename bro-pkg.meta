@@ -1,0 +1,8 @@
+[package]
+description = Protocols where they shouldn't be.
+tags = conn, services, odd
+version = 1.0.0
+script_dir = scripts
+config_files = scripts/config.bro
+depends =
+    bro >=2.5.0
